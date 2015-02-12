@@ -1,4 +1,4 @@
-<?php namespace App\Events;
+<?php namespace Kanalbo\Events;
 
 abstract class Event {
 
